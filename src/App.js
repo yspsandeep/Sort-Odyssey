@@ -178,8 +178,7 @@ function App() {
 
       <footer>
         <section>
-          Designed and built with{' '}
-          <span>&hearts;</span> by{' '}
+           built by{' '}
           Y.S Sandeep
         </section>
 
