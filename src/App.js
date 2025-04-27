@@ -179,7 +179,7 @@ function App() {
       <footer>
         <section>
            built by{' '}
-          Y.S Sandeep
+          Sandeep Yerrapragada
         </section>
 
         <section>
